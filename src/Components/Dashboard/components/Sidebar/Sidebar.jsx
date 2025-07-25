@@ -108,7 +108,7 @@ export default function Sidebar() {
                 <div className="w-10 h-10 rounded-full bg-gradient-to-br from-white to-gray-200 shadow-md flex items-center justify-center text-black font-bold text-xl">
                     M
                 </div>
-                <span className="text-xl font-semibold text-gray-800">Moni Credits</span>
+                <span className="text-xl font-semibold text-gray-800">Post Market</span>
             </div>
 
             {/* Меню с разделами */}
