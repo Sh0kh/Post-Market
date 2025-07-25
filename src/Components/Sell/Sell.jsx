@@ -91,7 +91,7 @@ export default function Sell() {
                                         {el.narx.toLocaleString()} / {el.tur}
                                     </Typography>
                                 </div>
-                                <div className="w-[20%]">
+                                <div className="w-[]">
                                     <Input
                                         type="number"
                                         size="sm"
